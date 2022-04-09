@@ -10,5 +10,6 @@ int main(int argc, char const *argv[])
     cout<<cheat<<endl;
     cout<<weight<<endl;
     cout<<inseam<<endl;
+    // cout 输出默认是以十进制输出
     return 0;
 }
