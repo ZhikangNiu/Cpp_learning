@@ -14,5 +14,6 @@ int main(int argc, char const *argv[])
     cout<<oct;
     // 以八进制展示
     cout<<inseam<<endl;
+    cout.put('m');
     return 0;
 }
